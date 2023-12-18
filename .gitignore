@@ -1,0 +1,8 @@
+.env
+.DS_Store
+node_modules
+kindlegen
+book.epub
+definitions.json
+output
+words.txt
